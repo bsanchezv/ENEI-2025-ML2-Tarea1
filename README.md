@@ -6,6 +6,15 @@ Environment: Python, numpy, pandas, matplotlib, scikit-learn, ntlk, ISLP.
 
 ---
 
+Authors:
+
+-   Calle Chambe, Efrain
+
+-   Poma Huamán, Brayan
+
+-   Sánchez Vásquez, Barbara Gabriela
+
+---
 ## Part A: Binary Classification on Text Data
 
 In this part, you will implement several machine learning techniques from class to perform classification on text data. Throughout the problem, we will be working with the **NLP with Disaster Tweets** Kaggle competition data; the task is to predict whether or not a tweet is about a real disaster.
